@@ -1,0 +1,4 @@
+Time and tide waits for none.
+"There are no days in which righteous deeds are more beloved to Allah than these 10 days."
+an interface is a contract between a class and the outside world. when a class implements an interface, it promises to provide the behavior published by that in interface.
+when you do not explicitly define a constructor for a class, then java creates a default constructor for the class. the default constructor automatically initializes all instance variables to their default values, which are zero, null, and false, for numeric types, reference types, and boolean, respectively.

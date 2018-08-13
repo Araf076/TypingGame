@@ -1,0 +1,16 @@
+typing texts:
+
+in computer languages that do not support exception handling, errors must be checked and handled manually, typically through the use of error codes, and so on.
+an exception is an event, which occurs during the execution of a program, that disrupts the normal flow of the program's instructions.
+an interface is a contract between a class and the outside world. when a class implements an interface, it promises to provide the behavior published by that in interface.
+when you do not explicitly define a constructor for a class, then java creates a default constructor for the class. the default constructor automatically initializes all instance variables to their default values, which are zero, null, and false, for numeric types, reference types, and boolean, respectively.
+
+lev el1.
+lev el2.
+lev el3.
+lev el4.
+
+random ideal scores:
+70 10 900 20
+80 15 1000 15
+50 8 500 29

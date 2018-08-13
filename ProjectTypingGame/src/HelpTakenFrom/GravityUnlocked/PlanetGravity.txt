@@ -1,0 +1,9 @@
+Mercury: 3.7 m/s^2
+Venus: 8.87 m/s^2
+Earth: 9.80665 m/s^2
+Mars: 3.711 m/s^2
+Jupiter: 24.79 m/s^2
+Saturn: 10.44 m/s^2
+Uranus: 8.69 m/s^2
+Neptune: 11.15 m/s^2
+Pluto: 0.62 m/s^2
